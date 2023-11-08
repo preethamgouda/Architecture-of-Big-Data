@@ -121,7 +121,7 @@ hdfs dfs -cat /Assignment_1/test1.py
 ```
 
 ``` python
-2021-11-04 14:19:41,060 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false
+2023-11-04 14:19:41,060 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false
 #Arithmatic Functions
 
 def add(a,b):
