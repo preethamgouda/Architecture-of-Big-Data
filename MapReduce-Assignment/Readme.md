@@ -25,6 +25,8 @@ Submitted By- Preetham Gouda
 
 ###Total Character Count Count
 
+
+```java
 import java.io.IOException;
 import java.util.StringTokenizer;
 
@@ -88,8 +90,11 @@ public class characterCount {
 		System.exit(job.waitForCompletion(true) ? 0: 1);
 	}
 }
+```
 
-####Word COunt
+####Word Count
+
+```java
 import java.io.IOException;
 import java.util.StringTokenizer;
 
@@ -153,6 +158,7 @@ public class characterCount {
 		System.exit(job.waitForCompletion(true) ? 0: 1);
 	}
 }
+```
 
 ##### Create dataset with fields like ‘Student Name’, ‘Institute’, ‘Program Name’, and ‘Gender’ and solve following questions.
 
